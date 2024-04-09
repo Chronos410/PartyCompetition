@@ -1,5 +1,7 @@
 이미지
 
+무료 아이콘		https://github.com/google/material-design-icons/releases/tag/1.0.0
+
 무료 제공 이미지		https://startupstockphotos.com/
 
 비즈니스 모델 캔버스 	https://neouller.tistory.com/entry/비즈니스-모델-캔버스-양식-ppt-무료나눔-2
